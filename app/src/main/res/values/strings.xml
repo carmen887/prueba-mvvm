@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ejemplomvvm</string>
+    <string name="title_tet">Ingrese los datos del libro</string>
+    <string name="name">Ingrese el nombre</string>
+    <string name="isbn">Ingrese el ISBN</string>
+    <string name="autor">Ingrese el autor</string>
+    <string name="editorial">Ingrese la editorial</string>
+    <string name="anio">Ingrese el año</string>
+    <string name="accion_text">Insertar</string>
 </resources>
